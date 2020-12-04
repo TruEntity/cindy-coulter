@@ -7,7 +7,7 @@ ORG:Truentity (PTY) Ltd;
 TITLE:Director
 EMAIL;type=INTERNET;type=WORK;type=pref:cindy@truentity.co.za
 TEL;type=WORK;type=VOICE:+27 82 786 8974
-item1.ADR;type=WORK;type=pref:;;43 Saturn Street\Germiston\,Gauteng;;;1401;South Africa
+item1.ADR;type=WORK;type=pref:;;43 Saturn Street\nGermiston\,Gauteng;;;1401;South Africa
 item1.X-ABADR:sg
 item2.URL;type=pref:truentity.co.za
 item2.X-ABLabel:_$!<HomePage>!$_
